@@ -13,6 +13,7 @@ const router = createBrowserRouter([
       {
         path: "/category/:id",
         element: <>you</>,
+        loader: () => fetch(""),
       },
     ],
   },

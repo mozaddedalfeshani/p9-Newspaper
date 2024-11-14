@@ -1,8 +1,9 @@
 # A 48 Hours Full stack React JS newspaper project
 
-## Description
+# <img src="src/assets/logo.png">
 
-This project is a full stack newspaper project that allows users to read, write, and comment on articles. The project is built using Django and React. The project is built in 48 hours as part of the Code Institute Full Stack Developer course.
+## Description
+Dragoon News is a responsive front-end web application build with react that delivers real-time news articles on a variety of topics, complete with user authentication for personalized access. Built with modern web technologies, the app ensures a seamless user experience across devices and secure login functionality using firebase authentication.let's build the project together. 😎
 
 ## Technologies
 
@@ -41,6 +42,28 @@ This project is a full stack newspaper project that allows users to read, write,
 1. Clone the repository
 2. Install the required packages
 3. Run the server
+
+## Layout Documentation
+
+There will be three layour for the project. watch below designs to understand layout structure/
+
+### Home Layout
+
+ <img src="design/home-layout.png"/>
+
+### News-Details Layout
+
+ <img src="design/news-details-layout.png"/>
+
+### Auth Layout
+
+<table>
+ <tr>
+   <td> <img  src="design/auth-layout-login.png"/></td>
+   <td> <img src="design/auth-layout-register.png"/></td>
+ 
+ </tr> 
+</table>
 
 ## Live Demo
 
