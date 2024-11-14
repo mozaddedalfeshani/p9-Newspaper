@@ -23,7 +23,9 @@ export default function HomeLayout() {
           <LeftNav />
         </aside>
         <div className="col-span-6">
-          <h1>mian</h1>
+          <h1>
+            <Outlet />
+          </h1>
         </div>
         <aside className="col-span-3">
           <RightNav />
