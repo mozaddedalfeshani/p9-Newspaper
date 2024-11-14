@@ -24,7 +24,7 @@ export default function LeftNav() {
           return (
             <NavLink
               to={`category/${item.category_id}`}
-              className="btn"
+              className="btn bg-[#ffffff]"
               key={item.category_id}>
               {item.category_name}
             </NavLink>
