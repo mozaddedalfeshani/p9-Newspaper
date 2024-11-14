@@ -7,6 +7,10 @@ const router = createBrowserRouter([
     element: <HomeLayout />,
     children: [
       {
+        path: "",
+        element: <Navigate to={"/category/01"}></Navigate>,
+      },
+      {
         path: "/category/:id",
         element: <>you</>,
       },
