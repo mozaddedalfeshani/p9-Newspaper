@@ -1,4 +1,4 @@
-# a 48 Hours Full stack newspaper project
+# A 48 Hours Full stack React JS newspaper project
 
 ## Description
 
@@ -6,6 +6,7 @@ This project is a full stack newspaper project that allows users to read, write,
 
 ## Technologies
 
+- React JS
 - Tailwind CSS
 - DaisyUI
 - moment.js
