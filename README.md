@@ -11,6 +11,11 @@ This project is a full stack newspaper project that allows users to read, write,
 - moment.js
 - google fonts
 - Marquee fast
+- Firebase
+- React Toastify
+- React Router
+- Git
+- PH-Api
 
 ## Features
 
