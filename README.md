@@ -7,6 +7,7 @@ This project is a full stack newspaper project that allows users to read, write,
 ## Technologies
 
 - React JS
+- React Icons
 - Tailwind CSS
 - DaisyUI
 - moment.js
